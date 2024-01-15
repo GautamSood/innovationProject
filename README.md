@@ -5,14 +5,13 @@
 Welcome to our Communication POC project repository! This project is focused on establishing secure communication between a Digital Wallet Extension and a Decentralized Application (DApp).
 
 ## Project Structure
+1."/Provider API approach" : this folder have all the file related to communication by using provider apis
 
-1. **/docs**: Contains project documentation and relevant resources.
+2."/assets" : this contains frontend side of the poc created from foundation
 
-2. **/src/dapp**: Holds the source code for the Decentralized Application.
+3."/chromeapi" : this contains backend side of the poc created from foundation
 
-3. **/src/wallet-extension**: Contains the source code for the Digital Wallet Extension.
-
-4. **/api**: Includes API specifications and documentation for communication between the DApp and Wallet Extension.
+4."/extention" : this contains the different files related to wallet extention
 
 ## Getting Started
 
